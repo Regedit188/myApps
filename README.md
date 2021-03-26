@@ -7,4 +7,4 @@ The first project - Huffman code - is an application that implements Huffman and
 
 Second project - Strategy game. In this app were implemented such design patterns as abstract factory, snapshot, composite, observer. Also, template classes are used to create two different sets of game rules that the user can choose. All the basic principles of object-oriented programming are fully disclosed in this project. 
 
-Third project - voice_analisys on python. In this program using the resemblyzer library you can determine the number of speakers in the audio recording, indicating the time stamps of their speech and check if the same person is speaking on two different audio recordings. 
+Third project - voice_analisys on python. In this program using the resemblyzer library you can determine the number of speakers in the audio recording(mp3, wav, ogg), indicating the time stamps of their speech and check if the same person is speaking on two different audio recordings. 
