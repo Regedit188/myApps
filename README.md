@@ -1,5 +1,7 @@
-# myApps
+# My Apps
 Apps that I made while studying at the university.
+
+Online-debates - my bachelor's work. It is a web service for organizing online-debates using WebRTC and Socket.io. 
 
 First two projects made in Qt.
 
