@@ -3,7 +3,7 @@ Apps that I made while studying at the university.
 
 Online-debates - my bachelor's work. It is a web service for organizing online-debates using WebRTC and Socket.io. 
 
-Relational graph - also university work which is about building graph of relationships between friends in "Vkontakte" social network using its API.
+Relational graph - Java application which is about building graph of relationships between friends in "Vkontakte" social network using its API.
 
 CRUD training - simple Spring Boot application with H2 SQL database and Hibernate. It has all CRUD operations and some additional features to manage tables. 
 
