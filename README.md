@@ -3,6 +3,8 @@ Apps that I made while studying at the university.
 
 Online-debates - my bachelor's work. It is a web service for organizing online-debates using WebRTC and Socket.io. 
 
+CRUD training - simple Spring Boot application with H2 SQL database and Hibernate. It has all CRUD operations and some additional features to manage tables. 
+
 myApps:
 
 First two projects made in Qt.
